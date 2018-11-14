@@ -1,4 +1,3 @@
-DROP DATABASE IF EXISTS empresa;
 CREATE DATABASE IF NOT EXISTS lojinha;
 USE lojinha;
 
